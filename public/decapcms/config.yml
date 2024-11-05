@@ -1,9 +1,10 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: HushPuppy342/astrowindcms
   branch: main
 
 media_folder: 'src/assets/images'
-public_folder: '/_astro'
+public_folder: '/src/assets'
 
 collections:
   - name: 'post'
