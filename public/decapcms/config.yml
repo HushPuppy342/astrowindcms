@@ -6,6 +6,9 @@ backend:
 media_folder: 'src/assets/images'
 public_folder: '/src/assets'
 
+plugins:
+  -frontmatter
+
 collections:
   - {
     name: 'post',
