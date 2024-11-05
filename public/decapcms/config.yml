@@ -6,6 +6,8 @@ backend:
 media_folder: 'src/assets/images'
 public_folder: '/src/assets/images/uploads'
 
+site_url: https://astro-nov2024.netlify.app/
+
 plugins:
   -frontmatter
 
