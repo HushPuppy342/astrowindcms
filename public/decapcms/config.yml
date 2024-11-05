@@ -2,7 +2,6 @@ backend:
   name: github
   repo: HushPuppy342/astrowindcms
   branch: main
-
 media_folder: 'src/assets/images'
 public_folder: '/src/assets'
 
